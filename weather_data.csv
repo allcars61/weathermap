@@ -1,0 +1,6 @@
+city,timestamp,temperature,humidity,wind_speed,description
+Moscow,2023-06-15 19:21:28,25.69,37,4.01,few clouds
+Krasnodar,2023-06-15 19:21:28,21.08,85,4.33,broken clouds
+Novosibirsk,2023-06-15 19:21:29,19.61,40,4.0,clear sky
+Yekaterinburg,2023-06-15 19:21:30,20.77,35,4.0,clear sky
+Kazan,2023-06-15 19:21:30,24.34,58,1.61,overcast clouds
